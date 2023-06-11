@@ -1,0 +1,15 @@
+{
+   "error":"Oops.. No data found",
+   "fail":"Oops... There was an unexpected error, please try again later.",
+   "await":"Wait...",
+   "hello":"Hi",
+   "subtitle":"View the Google Book Library",
+   "search":"Search...",
+   "favorite":"Favorites",
+   "empty_favorites":"Oops.. you don't have any favorite books yet",
+   "book_details":"Details",
+   "publisher":"Publisher",
+   "pages":"Pages",
+   "rating":"Rating",
+   "no_description":"No description"
+}

@@ -1,0 +1,15 @@
+{
+    "error":"Ops.. Não foram encontrados dados",
+    "fail":"Ops.. Houve um erro inesperado, tente novamente mais tarde.",
+    "await":"Aguarde...",
+    "hello":"Olá",
+    "subtitle":"Veja a biblioteca de livros do Google",
+    "search":"Pesquisar...",
+    "favorite":"Favoritos",
+    "empty_favorites":"Opss.. ainda não possui livros favoritos",
+    "book_details":"Detalhes",
+    "publisher":"Editora",
+    "pages":"Páginas",
+    "rating":"Avaliação",
+    "no_description":"Sem descrição"
+}
